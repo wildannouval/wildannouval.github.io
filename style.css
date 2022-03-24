@@ -90,17 +90,9 @@ section {
     font-family: 'comic sans ms';
     color: #364f6b;
 }
-.kolom h2{
-    font-family: montserrat;
-    font-weight: 800;
-    font-size: 45px;
-    margin-bottom: 20px;
-    color: #364f6b;
-    width: 100%;
-    line-height: 50px;
-}
+
 h2 {
-    font-family: 'comic sans ms';
+    font-family: montserrat;
     font-weight: 800;
     font-size: 45px;
     margin-bottom: 20px;
