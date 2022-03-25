@@ -1,7 +1,9 @@
 @import url('https://fonts.google.com/specimen/Poppins');
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
-* {
+
+/*Index CSS*/ 
+ {
     text-decoration: none;
     margin: 0px;
     padding: 0px;
