@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/wildannouval.github.io/static/css/main.0e3bad66.css",
+    "main.js": "/wildannouval.github.io/static/js/main.b58a9688.js",
+    "static/js/787.f34f1113.chunk.js": "/wildannouval.github.io/static/js/787.f34f1113.chunk.js",
+    "static/media/logo.png": "/wildannouval.github.io/static/media/logo.d9efb452bdb2ee428acb.png",
+    "static/media/wiln.jpg": "/wildannouval.github.io/static/media/wiln.298a0e367bb8d1fd14f3.jpg",
+    "index.html": "/wildannouval.github.io/index.html",
+    "main.0e3bad66.css.map": "/wildannouval.github.io/static/css/main.0e3bad66.css.map",
+    "main.b58a9688.js.map": "/wildannouval.github.io/static/js/main.b58a9688.js.map",
+    "787.f34f1113.chunk.js.map": "/wildannouval.github.io/static/js/787.f34f1113.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e3bad66.css",
+    "static/js/main.b58a9688.js"
+  ]
+}
